@@ -2,9 +2,11 @@
 ---
 ### GUI Python for Multiple Regression Analysis
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/GUI-FORECASTING.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](projects/GUI-FORECASTING.html)
+[![Open Data](https://img.shields.io/badge/https://img.shields.io/badge/XLSX-Open%20Data-brightgreen](xlsx/Advertising.xlsx)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+
+<div style="text-align: justify">Multiple linear regression analysis is a regression model that involves more than one independent variable. Regression in this analysis is used to predict sales results based on advertising spending through TV, radio and newspaper media in the form of a Guide User Interface (GUI).</div>
 <br>
 <center><img src="images/gui.png"></center>
 <br>
