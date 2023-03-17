@@ -3,7 +3,7 @@
 ### GUI Python for Multiple Regression Analysis
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](projects/GUI-FORECASTING.html)
-[![Open Data](https://img.shields.io/badge/https://img.shields.io/badge/XLSX-Open%20Data-brightgreen](xlsx/Advertising.xlsx)
+[![Open Data](https://img.shields.io/badge/https://img.shields.io/badge/XLSX-Open_Data-brightgreen](xlsx/Advertising.xlsx)
 
 
 <div style="text-align: justify">Multiple linear regression analysis is a regression model that involves more than one independent variable. Regression in this analysis is used to predict sales results based on advertising spending through TV, radio and newspaper media in the form of a Guide User Interface (GUI).</div>
