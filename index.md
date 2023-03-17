@@ -12,4 +12,4 @@
 <br>
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+
