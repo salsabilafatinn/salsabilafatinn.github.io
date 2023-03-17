@@ -8,10 +8,9 @@
 
 <div style="text-align: justify">Multiple linear regression analysis is a regression model that involves more than one independent variable. Regression in this analysis is used to predict sales results based on advertising spending through TV, radio and newspaper media in the form of a Guide User Interface (GUI). The visualization uses a scatterplot which functions to see the relationship between variables.</div>
 
-<div style="text-align: justify">The following are the steps for using the GUI:
-1. Input data
-2. Enter the values for the TV, radio, and newspaper variables
+<div style="text-align: justify">The following are the steps for using the GUI: <br>
+1. Input data<br>
+2. Enter the values for the TV, radio, and newspaper variables<br>
 3. Click "Predict Sales"</div>
 
 <center><img src="images/gui.png"></center>
-<br>
