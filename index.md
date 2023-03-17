@@ -14,3 +14,6 @@ The following are the steps for using the GUI: <br>
 2. Enter the values for the TV, radio, and newspaper variables<br>
 3. Click "Predict Sales"</div>
 <center><img src="images/gui.png"></center>
+<br>
+
+---
